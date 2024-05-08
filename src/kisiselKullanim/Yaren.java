@@ -5,5 +5,7 @@ public class Yaren {
         System.out.println("yaren");
 
         System.out.println("yaren2");
+
+        System.out.println("yaren3");
     }
 }
