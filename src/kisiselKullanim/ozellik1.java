@@ -6,5 +6,6 @@ public class ozellik1 {
         System.out.println("serdar branchında çalışıyorum");
 
         System.out.println("serdar branchinde 2.degişiklik kendime özel class'da");
+        System.out.println("sümeyye saray");
     }
 }
